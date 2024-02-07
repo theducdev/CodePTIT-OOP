@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="FormHienThi">
+  <grid id="27dc6" layout-manager="FlowLayout" hgap="5" vgap="5" flow-align="1">
+    <constraints>
+      <xy x="60" y="0" width="460" height="420"/>
+    </constraints>
+    <properties>
+      <enabled value="true"/>
+    </properties>
+    <border type="none"/>
+    <children>
+      <component id="497c5" class="javax.swing.JTextPane" binding="TieuDe" custom-create="true">
+        <constraints/>
+        <properties>
+          <editable value="false"/>
+          <enabled value="true"/>
+          <text value="Danh sách mặt hàng"/>
+        </properties>
+      </component>
+      <component id="42a2b" class="javax.swing.JTable" binding="BangDanhSach" custom-create="true">
+        <constraints/>
+        <properties>
+          <intercellSpacing width="4" height="4"/>
+        </properties>
+      </component>
+      <component id="f21fb" class="javax.swing.JButton" binding="hiểnThịButton" default-binding="true">
+        <constraints/>
+        <properties>
+          <text value="Hiển Thị"/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>

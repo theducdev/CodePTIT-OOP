@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="src">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Xep_hang.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Tinh_tien_phong.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Danh_sach_mon_hoc.zip!/" />
+      <root url="jar://$PROJECT_DIR$/DanhSachSV.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Pair.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Danh_sach_canh.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Danh_sach_doanh_nghiep.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Danh_sach_san_pham_2.zip!/" />
+      <root url="jar://$PROJECT_DIR$/DS_doi_tuong_SV_1.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Loai_phong.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Liet_ke_tu_khac_nhau.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Sap_xep_mat_hang.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Rectange.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Danh_sach_luu_tru.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
